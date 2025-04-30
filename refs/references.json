@@ -1,0 +1,728 @@
+{
+  "blogs": {
+    "official": [
+      {
+        "title": "OpenAI Blog",
+        "url": "https://openai.com/blog/",
+        "description": "人工知能研究開発企業OpenAIの公式ブログ"
+      },
+      {
+        "title": "Google AI Blog",
+        "url": "https://ai.googleblog.com/",
+        "description": "Googleの人工知能研究・開発に関する公式ブログ"
+      },
+      {
+        "title": "Google Developers Blog",
+        "url": "https://developers.googleblog.com/",
+        "description": "Google開発者向け公式ブログ"
+      },
+      {
+        "title": "Microsoft Research Blog",
+        "url": "https://www.microsoft.com/en-us/research/blog/",
+        "description": "Microsoftの研究部門による公式ブログ"
+      },
+      {
+        "title": "Facebook AI Blog",
+        "url": "https://ai.facebook.com/blog/",
+        "description": "Meta（旧Facebook）のAI研究に関する公式ブログ"
+      },
+      {
+        "title": "Apple Machine Learning Journal",
+        "url": "https://machinelearning.apple.com/",
+        "description": "Appleの機械学習研究に関する公式ブログ"
+      },
+      {
+        "title": "Amazon Science",
+        "url": "https://www.amazon.science/",
+        "description": "Amazonの科学研究に関する公式ブログ"
+      },
+      {
+        "title": "Netflix Tech Blog",
+        "url": "https://netflixtechblog.com/",
+        "description": "Netflixの技術に関する公式ブログ"
+      },
+      {
+        "title": "LinkedIn Engineering Blog",
+        "url": "https://engineering.linkedin.com/blog",
+        "description": "LinkedInのエンジニアリングに関する公式ブログ"
+      },
+      {
+        "title": "Twitter Engineering Blog",
+        "url": "https://blog.twitter.com/engineering/en_us.html",
+        "description": "Twitterのエンジニアリングに関する公式ブログ"
+      },
+      {
+        "title": "NVIDIA Blog",
+        "url": "https://blogs.nvidia.com/",
+        "description": "NVIDIAの公式ブログ"
+      },
+      {
+        "title": "IBM Research Blog",
+        "url": "https://research.ibm.com/blog",
+        "description": "IBM研究部門の公式ブログ"
+      },
+      {
+        "title": "MIT Technology Review",
+        "url": "https://www.technologyreview.com/",
+        "description": "マサチューセッツ工科大学の技術レビュー"
+      },
+      {
+        "title": "BAIR Blog",
+        "url": "https://bair.berkeley.edu/blog/",
+        "description": "バークレーAI研究所の公式ブログ"
+      },
+      {
+        "title": "Stanford HAI",
+        "url": "https://hai.stanford.edu/blog",
+        "description": "スタンフォード大学の人間中心AI研究所のブログ"
+      }
+    ],
+    "tech_media": [
+      {
+        "title": "TechCrunch",
+        "url": "https://techcrunch.com/",
+        "description": "テクノロジーニュース、スタートアップ、製品レビューに特化したメディア"
+      },
+      {
+        "title": "Wired",
+        "url": "https://www.wired.com/",
+        "description": "テクノロジーが文化、ビジネス、政治に与える影響を扱うメディア"
+      },
+      {
+        "title": "The Verge",
+        "url": "https://www.theverge.com/",
+        "description": "テクノロジー、科学、芸術、文化に関するニュースサイト"
+      },
+      {
+        "title": "Ars Technica",
+        "url": "https://arstechnica.com/",
+        "description": "テクノロジーとサイエンスに関する詳細で包括的な記事を提供"
+      },
+      {
+        "title": "VentureBeat",
+        "url": "https://venturebeat.com/",
+        "description": "テクノロジービジネスとスタートアップに関するニュースサイト"
+      },
+      {
+        "title": "Mashable",
+        "url": "https://mashable.com/",
+        "description": "テクノロジー、デジタル文化、エンターテイメントに関するメディア"
+      },
+      {
+        "title": "CNET",
+        "url": "https://www.cnet.com/",
+        "description": "消費者向けテクノロジー製品のレビューとニュース"
+      },
+      {
+        "title": "ZDNet",
+        "url": "https://www.zdnet.com/",
+        "description": "ビジネステクノロジーに関するニュースと分析"
+      },
+      {
+        "title": "Engadget",
+        "url": "https://www.engadget.com/",
+        "description": "消費者向けエレクトロニクスとテクノロジーに関するブログ"
+      },
+      {
+        "title": "Gizmodo",
+        "url": "https://gizmodo.com/",
+        "description": "デザインとテクノロジーに関するブログ"
+      },
+      {
+        "title": "IEEE Spectrum",
+        "url": "https://spectrum.ieee.org/",
+        "description": "IEEEによるテクノロジーの分析と調査"
+      },
+      {
+        "title": "SD Times",
+        "url": "https://sdtimes.com/",
+        "description": "ソフトウェア開発に関するニュースとレビュー"
+      },
+      {
+        "title": "InfoWorld",
+        "url": "https://www.infoworld.com/",
+        "description": "企業向けITに関する情報とニュース"
+      },
+      {
+        "title": "Computer Weekly",
+        "url": "https://www.computerweekly.com/",
+        "description": "IT専門家向けのニュースと分析"
+      },
+      {
+        "title": "ReadWrite",
+        "url": "https://readwrite.com/",
+        "description": "テクノロジーとイノベーションに関するブログ"
+      }
+    ],
+    "ai_ml": [
+      {
+        "title": "Machine Learning Mastery",
+        "url": "https://machinelearningmastery.com/",
+        "description": "機械学習に関するチュートリアルとガイド"
+      },
+      {
+        "title": "KDnuggets",
+        "url": "https://www.kdnuggets.com/",
+        "description": "データマイニング、分析、ビッグデータ、機械学習に関するリソース"
+      },
+      {
+        "title": "Analytics Vidhya",
+        "url": "https://www.analyticsvidhya.com/blog/",
+        "description": "データサイエンス、機械学習、AIに関するブログ"
+      },
+      {
+        "title": "Towards Data Science",
+        "url": "https://towardsdatascience.com/",
+        "description": "Medium上のデータサイエンスに関する出版物"
+      },
+      {
+        "title": "MarkTechPost",
+        "url": "https://www.marktechpost.com/",
+        "description": "AIと機械学習に関するニュースと記事"
+      },
+      {
+        "title": "Becoming Human",
+        "url": "https://becominghuman.ai/",
+        "description": "AI技術に関するブログと教育リソース"
+      },
+      {
+        "title": "AI Plus Info",
+        "url": "https://www.aiplusinfo.com/",
+        "description": "人工知能に関するニュースと情報"
+      },
+      {
+        "title": "Distill",
+        "url": "https://distill.pub/",
+        "description": "機械学習研究の解説に特化したジャーナル"
+      },
+      {
+        "title": "AI Trends",
+        "url": "https://www.aitrends.com/",
+        "description": "AIビジネスに関するニュースサイト"
+      },
+      {
+        "title": "Bernard Marr Blog",
+        "url": "https://bernardmarr.com/",
+        "description": "AIとビッグデータに関する専門家のブログ"
+      },
+      {
+        "title": "Holistic AI",
+        "url": "https://www.holisticai.com/blog",
+        "description": "責任あるAIシステムの開発とガバナンスに関するブログ"
+      },
+      {
+        "title": "AI Explained",
+        "url": "https://ai-explained.com/",
+        "description": "AI技術の解説に特化したブログ"
+      },
+      {
+        "title": "There's An AI For That",
+        "url": "https://theresanaiforthat.com/blog/",
+        "description": "AI統合とツールに関するブログ"
+      },
+      {
+        "title": "AI Scout",
+        "url": "https://aiscout.net/blog/",
+        "description": "AIツールとアプリケーションに関するブログ"
+      }
+    ],
+    "programming": [
+      {
+        "title": "Martin Fowler's Blog",
+        "url": "https://martinfowler.com/",
+        "description": "ソフトウェアアーキテクチャとアジャイル開発に関するブログ"
+      },
+      {
+        "title": "Scott Hanselman's Blog",
+        "url": "https://www.hanselman.com/blog/",
+        "description": "マイクロソフト社員によるテクノロジーブログ"
+      },
+      {
+        "title": "Joel on Software",
+        "url": "https://www.joelonsoftware.com/",
+        "description": "ソフトウェア開発に関するエッセイ"
+      },
+      {
+        "title": "Coding Horror",
+        "url": "https://blog.codinghorror.com/",
+        "description": "Stack Overflowの共同創設者によるソフトウェア開発ブログ"
+      },
+      {
+        "title": "The Pragmatic Engineer",
+        "url": "https://blog.pragmaticengineer.com/",
+        "description": "ソフトウェアエンジニアリングに関するブログ"
+      },
+      {
+        "title": "DZone",
+        "url": "https://dzone.com/",
+        "description": "プログラマー向けのテクニカルコンテンツプラットフォーム"
+      },
+      {
+        "title": "freeCodeCamp News",
+        "url": "https://www.freecodecamp.org/news/",
+        "description": "プログラミング学習に関するニュースと記事"
+      },
+      {
+        "title": "CSS-Tricks",
+        "url": "https://css-tricks.com/",
+        "description": "ウェブデザインとフロントエンド開発に関するブログ"
+      },
+      {
+        "title": "A List Apart",
+        "url": "https://alistapart.com/",
+        "description": "ウェブデザインとウェブ開発に関する記事"
+      },
+      {
+        "title": "Smashing Magazine",
+        "url": "https://www.smashingmagazine.com/",
+        "description": "ウェブデザインとウェブ開発に関する雑誌"
+      },
+      {
+        "title": "DEV Community",
+        "url": "https://dev.to/",
+        "description": "プログラマーのためのコミュニティブログプラットフォーム"
+      },
+      {
+        "title": "Hacker Noon",
+        "url": "https://hackernoon.com/",
+        "description": "テクノロジーに関するユーザー生成コンテンツのプラットフォーム"
+      },
+      {
+        "title": "The Daily WTF",
+        "url": "https://thedailywtf.com/",
+        "description": "ソフトウェア開発の失敗や教訓に関するブログ"
+      },
+      {
+        "title": "CodeProject",
+        "url": "https://www.codeproject.com/",
+        "description": "プログラマー向けのコミュニティと記事サイト"
+      },
+      {
+        "title": "Stack Overflow Blog",
+        "url": "https://stackoverflow.blog/",
+        "description": "Stack Overflowの公式ブログ"
+      },
+      {
+        "title": "Geekflare",
+        "url": "https://geekflare.com/blog/",
+        "description": "ウェブ開発、セキュリティ、パフォーマンスに関するブログ"
+      },
+      {
+        "title": "TripleTen Blog",
+        "url": "https://tripleten.com/blog/",
+        "description": "プログラミング学習と技術キャリアに関するブログ"
+      },
+      {
+        "title": "Yegor256 Blog",
+        "url": "https://www.yegor256.com/",
+        "description": "オブジェクト指向プログラミングとプロジェクト管理に関するブログ"
+      },
+      {
+        "title": "bool.dev",
+        "url": "https://bool.dev/blog/",
+        "description": "ソフトウェアエンジニアリングとテクノロジーに関するブログ"
+      },
+      {
+        "title": "LeadDev",
+        "url": "https://leaddev.com/articles",
+        "description": "エンジニアリングリーダーシップに関するブログ"
+      },
+      {
+        "title": "Lokalise Blog",
+        "url": "https://lokalise.com/blog/",
+        "description": "ソフトウェア開発とローカリゼーションに関するブログ"
+      }
+    ],
+    "security": [
+      {
+        "title": "Krebs on Security",
+        "url": "https://krebsonsecurity.com/",
+        "description": "サイバーセキュリティに関する調査報道ブログ"
+      },
+      {
+        "title": "Schneier on Security",
+        "url": "https://www.schneier.com/",
+        "description": "セキュリティ専門家のブログ"
+      },
+      {
+        "title": "The Hacker News",
+        "url": "https://thehackernews.com/",
+        "description": "サイバーセキュリティと脆弱性に関するニュース"
+      },
+      {
+        "title": "Dark Reading",
+        "url": "https://www.darkreading.com/",
+        "description": "サイバーセキュリティに関するニュースサイト"
+      },
+      {
+        "title": "Security Boulevard",
+        "url": "https://securityboulevard.com/",
+        "description": "サイバーセキュリティに関する総合ブログプラットフォーム"
+      }
+    ],
+    "cloud_devops": [
+      {
+        "title": "Cloudflare Blog",
+        "url": "https://blog.cloudflare.com/",
+        "description": "ウェブインフラストラクチャとセキュリティに関するブログ"
+      },
+      {
+        "title": "AWS Blog",
+        "url": "https://aws.amazon.com/blogs/",
+        "description": "Amazon Web Servicesの公式ブログ"
+      },
+      {
+        "title": "Google Cloud Blog",
+        "url": "https://cloud.google.com/blog/",
+        "description": "Google Cloudの公式ブログ"
+      },
+      {
+        "title": "Azure Blog",
+        "url": "https://azure.microsoft.com/en-us/blog/",
+        "description": "Microsoft Azureの公式ブログ"
+      },
+      {
+        "title": "DevOps.com",
+        "url": "https://devops.com/",
+        "description": "DevOpsに関するニュースとトレンド"
+      },
+      {
+        "title": "The New Stack",
+        "url": "https://thenewstack.io/",
+        "description": "クラウドネイティブコンピューティングとDevOpsに関するブログ"
+      }
+    ],
+    "specialized": [
+      {
+        "title": "Visual Capitalist",
+        "url": "https://www.visualcapitalist.com/",
+        "description": "データビジュアライゼーションに特化したブログ"
+      },
+      {
+        "title": "Uber Engineering Blog",
+        "url": "https://eng.uber.com/",
+        "description": "Uberのエンジニアリングに関するブログ"
+      },
+      {
+        "title": "Slack Engineering Blog",
+        "url": "https://slack.engineering/",
+        "description": "Slackのエンジニアリングに関するブログ"
+      },
+      {
+        "title": "Stripe Blog",
+        "url": "https://stripe.com/blog/engineering",
+        "description": "Stripeのエンジニアリングに関するブログ"
+      }
+    ]
+  },
+  "youtube_channels": {
+    "ai_ml": [
+      {
+        "title": "Two Minute Papers",
+        "url": "https://www.youtube.com/c/KárolyZsolnai",
+        "description": "AIと科学論文の解説"
+      },
+      {
+        "title": "Lex Fridman",
+        "url": "https://www.youtube.com/lexfridman",
+        "description": "AI、ロボティクス、自律システムの研究者によるポッドキャスト"
+      },
+      {
+        "title": "AI Explained",
+        "url": "https://www.youtube.com/c/AIExplained",
+        "description": "AIに関する解説チャンネル"
+      },
+      {
+        "title": "DeepLearning.AI",
+        "url": "https://www.youtube.com/c/Deeplearningai",
+        "description": "Andrew Ngによる深層学習教育コンテンツ"
+      },
+      {
+        "title": "3Blue1Brown",
+        "url": "https://www.youtube.com/c/3blue1brown",
+        "description": "数学と機械学習の概念をアニメーションで説明"
+      },
+      {
+        "title": "Dr Alan D. Thompson",
+        "url": "https://www.youtube.com/c/DrAlanDThompson",
+        "description": "AIのトレンドと将来性に関するコンテンツ"
+      },
+      {
+        "title": "Siraj Raval",
+        "url": "https://www.youtube.com/c/SirajRaval",
+        "description": "データサイエンスとAIプロジェクトの教育コンテンツ"
+      },
+      {
+        "title": "Yannic Kilcher",
+        "url": "https://www.youtube.com/c/YannicKilcher",
+        "description": "AI研究論文の詳細な解説"
+      },
+      {
+        "title": "Andrej Karpathy",
+        "url": "https://www.youtube.com/c/AndrejKarpathy",
+        "description": "OpenAI・Teslaの元AI責任者によるAIコンテンツ"
+      },
+      {
+        "title": "Krish Naik",
+        "url": "https://www.youtube.com/user/krishnaik06",
+        "description": "機械学習とデータサイエンスのチュートリアル"
+      },
+      {
+        "title": "Konrad Kording",
+        "url": "https://www.youtube.com/channel/UCBp2OkxQFKQK1MJHiIB2XaA",
+        "description": "コンピュータグラフィックスと機械学習の研究者"
+      },
+      {
+        "title": "This Week in Machine Learning & AI",
+        "url": "https://www.youtube.com/c/cloudwiseai",
+        "description": "機械学習とAIに関する週間ニュース"
+      },
+      {
+        "title": "Jordan Harrod",
+        "url": "https://www.youtube.com/c/JordanHarrod",
+        "description": "AI技術と日常生活での応用に関するコンテンツ"
+      },
+      {
+        "title": "Dr Waku",
+        "url": "https://www.youtube.com/c/DrWaku",
+        "description": "AIの哲学と技術的進歩に関するコンテンツ"
+      },
+      {
+        "title": "dainami ai",
+        "url": "https://www.youtube.com/c/dainamiai",
+        "description": "AIと創造的プロジェクトに関するコンテンツ"
+      }
+    ],
+    "programming": [
+      {
+        "title": "Fireship",
+        "url": "https://www.youtube.com/c/Fireship",
+        "description": "最新のウェブ開発技術に関する短く効果的な解説"
+      },
+      {
+        "title": "The Coding Train",
+        "url": "https://www.youtube.com/c/TheCodingTrain",
+        "description": "クリエイティブコーディングのチュートリアル"
+      },
+      {
+        "title": "Traversy Media",
+        "url": "https://www.youtube.com/c/TraversyMedia",
+        "description": "ウェブ開発の包括的なチュートリアル"
+      },
+      {
+        "title": "Programming with Mosh",
+        "url": "https://www.youtube.com/c/programmingwithmosh",
+        "description": "さまざまなプログラミング言語のチュートリアル"
+      },
+      {
+        "title": "freeCodeCamp.org",
+        "url": "https://www.youtube.com/c/Freecodecamp",
+        "description": "無料のプログラミング教育コンテンツ"
+      },
+      {
+        "title": "Web Dev Simplified",
+        "url": "https://www.youtube.com/c/WebDevSimplified",
+        "description": "ウェブ開発の概念をシンプルに説明"
+      },
+      {
+        "title": "Kevin Powell",
+        "url": "https://www.youtube.com/kevinpowell",
+        "description": "CSS専門のチュートリアル"
+      },
+      {
+        "title": "Codevolution",
+        "url": "https://www.youtube.com/c/Codevolution",
+        "description": "ウェブ開発技術の詳細なチュートリアル"
+      },
+      {
+        "title": "Corey Schafer",
+        "url": "https://www.youtube.com/c/Coreyms",
+        "description": "Pythonプログラミングの詳細なチュートリアル"
+      },
+      {
+        "title": "The Net Ninja",
+        "url": "https://www.youtube.com/c/TheNetNinja",
+        "description": "モダンウェブ技術の包括的なチュートリアルシリーズ"
+      },
+      {
+        "title": "CS50",
+        "url": "https://www.youtube.com/c/cs50",
+        "description": "ハーバード大学のコンピュータサイエンス入門コース"
+      },
+      {
+        "title": "Derek Banas",
+        "url": "https://www.youtube.com/c/derekbanas",
+        "description": "短時間で新しいプログラミング言語を学ぶチュートリアル"
+      },
+      {
+        "title": "Academind",
+        "url": "https://www.youtube.com/c/Academind",
+        "description": "ウェブ開発と関連テクノロジーのコース"
+      },
+      {
+        "title": "Clever Programmer",
+        "url": "https://www.youtube.com/c/CleverProgrammer",
+        "description": "プログラミングスキルを向上させるためのコンテンツ"
+      },
+      {
+        "title": "Joma Tech",
+        "url": "https://www.youtube.com/c/JomaOppa",
+        "description": "テクノロジー業界と生活に関するコンテンツ"
+      },
+      {
+        "title": "Ben Awad",
+        "url": "https://www.youtube.com/c/BenAwad97",
+        "description": "ウェブ開発、特にReactとTypeScriptに関するコンテンツ"
+      },
+      {
+        "title": "Tech With Tim",
+        "url": "https://www.youtube.com/c/TechWithTim",
+        "description": "Pythonプログラミングと機械学習のチュートリアル"
+      },
+      {
+        "title": "Kent C. Dodds",
+        "url": "https://www.youtube.com/c/KentCDodds-vids",
+        "description": "React開発と関連技術に関するコンテンツ"
+      },
+      {
+        "title": "DevTips",
+        "url": "https://www.youtube.com/c/DevTipsForDesigners",
+        "description": "ウェブ開発とデザインに関するコンテンツ"
+      },
+      {
+        "title": "Program With Erik",
+        "url": "https://www.youtube.com/c/ProgramWithErik",
+        "description": "Vue.jsとウェブ開発に関するチュートリアル"
+      },
+      {
+        "title": "LevelUpTuts",
+        "url": "https://www.youtube.com/c/LevelUpTuts",
+        "description": "ウェブ開発の高品質チュートリアル"
+      },
+      {
+        "title": "codeSTACKr",
+        "url": "https://www.youtube.com/c/codeSTACKr",
+        "description": "ウェブ開発のトレンドとチュートリアル"
+      },
+      {
+        "title": "Joshua Fluke",
+        "url": "https://www.youtube.com/c/JoshuaFluke1",
+        "description": "テクノロジーキャリアとプログラミングに関するアドバイス"
+      },
+      {
+        "title": "Luba Yudasina",
+        "url": "https://www.youtube.com/c/thelifeofluba",
+        "description": "テック業界での仕事とプログラミングに関するアドバイス"
+      },
+      {
+        "title": "TechLead",
+        "url": "https://www.youtube.com/c/TechLead",
+        "description": "元Google/Facebookエンジニアによるテック業界の洞察"
+      }
+    ],
+    "tech_gadgets": [
+      {
+        "title": "Matt Wolfe",
+        "url": "https://www.youtube.com/c/MattWolfe",
+        "description": "AI、ノーコード、未来技術に関するコンテンツ"
+      },
+      {
+        "title": "Mrwhosetheboss",
+        "url": "https://www.youtube.com/c/Mrwhosetheboss",
+        "description": "テクノロジーレビューとコンテンツ"
+      },
+      {
+        "title": "Marques Brownlee (MKBHD)",
+        "url": "https://www.youtube.com/c/mkbhd",
+        "description": "高品質のテクノロジーレビュー"
+      },
+      {
+        "title": "Austin Evans",
+        "url": "https://www.youtube.com/c/austinevans",
+        "description": "ガジェットレビューとテクノロジーニュース"
+      },
+      {
+        "title": "Linus Tech Tips",
+        "url": "https://www.youtube.com/c/LinusTechTips",
+        "description": "ハードウェアレビューとテクノロジーコンテンツ"
+      },
+      {
+        "title": "Unbox Therapy",
+        "url": "https://www.youtube.com/c/unboxtherapy",
+        "description": "最新テクノロジー製品のアンボクシング"
+      },
+      {
+        "title": "Dave Lee",
+        "url": "https://www.youtube.com/c/DaveLee",
+        "description": "ラップトップとテクノロジーレビュー"
+      },
+      {
+        "title": "iJustine",
+        "url": "https://www.youtube.com/c/iJustine",
+        "description": "テクノロジーと生活スタイルに関するコンテンツ"
+      },
+      {
+        "title": "The Verge",
+        "url": "https://www.youtube.com/c/TheVerge",
+        "description": "テクノロジーニュースとレビュー"
+      },
+      {
+        "title": "Engadget",
+        "url": "https://www.youtube.com/c/engadget",
+        "description": "テクノロジーレビューとニュース"
+      }
+    ],
+    "other": [
+      {
+        "title": "Kurzgesagt – In a Nutshell",
+        "url": "https://www.youtube.com/c/inanutshell",
+        "description": "科学とテクノロジーの教育コンテンツ"
+      },
+      {
+        "title": "Computerphile",
+        "url": "https://www.youtube.com/c/computerphile",
+        "description": "コンピューターサイエンスに関する深い洞察"
+      },
+      {
+        "title": "ColdFusion",
+        "url": "https://www.youtube.com/c/ColdFusion",
+        "description": "テクノロジーのストーリーテリングと歴史"
+      },
+      {
+        "title": "TED",
+        "url": "https://www.youtube.com/c/TED",
+        "description": "テクノロジー、エンターテイメント、デザインに関するトーク"
+      },
+      {
+        "title": "WIRED",
+        "url": "https://www.youtube.com/c/WIRED",
+        "description": "テクノロジーとその社会的影響に関するコンテンツ"
+      },
+      {
+        "title": "Tom Scott",
+        "url": "https://www.youtube.com/c/TomScottGo",
+        "description": "テクノロジーと科学の教育コンテンツ"
+      },
+      {
+        "title": "Veritasium",
+        "url": "https://www.youtube.com/c/veritasium",
+        "description": "科学とテクノロジーの教育コンテンツ"
+      },
+      {
+        "title": "Mark Rober",
+        "url": "https://www.youtube.com/c/MarkRober",
+        "description": "科学とエンジニアリングのプロジェクト"
+      },
+      {
+        "title": "Vsauce",
+        "url": "https://www.youtube.com/c/vsauce1",
+        "description": "科学、数学、哲学に関する探究"
+      },
+      {
+        "title": "Curious Droid",
+        "url": "https://www.youtube.com/c/CuriousDroid",
+        "description": "宇宙、航空、テクノロジーの歴史"
+      }
+    ]
+  }
+}
